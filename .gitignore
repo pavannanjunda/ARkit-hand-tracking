@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+venv/
+.env
+Raw Input/
+output2/
+*.zip
+*.avi
+*.mp4
+*.mov
+depth_maps/
+.DS_Store
