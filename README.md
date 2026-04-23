@@ -38,8 +38,8 @@ python src/pipeline.py --raw-dir "data/sample_input" --output-dir "data/sample_o
 ## 🎥 Pipeline Outputs
 
 <p align="center">
-  <b>Depth Overlay</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>3D Visualization</b>
+  <b>Input</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Depth Overlay</b>
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ python src/pipeline.py --raw-dir "data/sample_input" --output-dir "data/sample_o
 </p>
 
 <p align="center">
-  <b>Combined Output</b>
+  <b>3D Visualization</b>
 </p>
 
 <p align="center">
