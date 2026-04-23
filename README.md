@@ -38,11 +38,22 @@ python src/pipeline.py --raw-dir "data/sample_input" --output-dir "data/sample_o
 ## 🎥 Pipeline Outputs
 
 <p align="center">
-  <img src="assets/video1.gif" width="32%" />
-  <img src="assets/video2.gif" width="32%" />
-  <img src="assets/video3.gif" width="32%" />
+  <b>Depth Overlay</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>3D Visualization</b>
 </p>
 
+<p align="center">
+  <img src="assets/video1.gif" width="48%" />
+  <img src="assets/video2.gif" width="48%" />
+</p>
+
+<p align="center">
+  <b>Combined Output</b>
+</p>
+
+<p align="center">
+  <img src="assets/video3.gif" width="80%" />
+</p>
 
 ## ⚠️ Note
 Large files (videos, depth maps) are excluded.
