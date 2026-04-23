@@ -35,6 +35,15 @@ python src/pipeline.py --raw-dir "data/sample_input" --output-dir "data/sample_o
 - 3D visualization video
 - Unified JSON dataset
 
+## 🎥 Pipeline Outputs
+
+<p align="center">
+  <img src="assets/video1.gif" width="32%" />
+  <img src="assets/video2.gif" width="32%" />
+  <img src="assets/video3.gif" width="32%" />
+</p>
+
+
 ## ⚠️ Note
 Large files (videos, depth maps) are excluded.
 
